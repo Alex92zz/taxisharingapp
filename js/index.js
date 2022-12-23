@@ -38,7 +38,7 @@ function TaxiShare() {
     // Initialize the platform object:
     var platform = new H.service.Platform({
         // TODO: Change to your own API key or map will NOT work!
-        apikey: "vZj4QHIYoXXcLO0VUDYQdCrIVmxUGw9TljtadRxpzG0",
+        apikey: "",
     });
     // Obtain the default map types from the platform object:
     var defaultLayers = platform.createDefaultLayers();
